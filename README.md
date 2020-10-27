@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo-700x356.png" alt="Logo" width="250" height="100">
+    <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo-700x356.png" alt="Logo" width="200" height="100">
   </a>
 
   <h3 align="center">B-DOP-500-Bernstein-Bootstrap</h3>
